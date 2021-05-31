@@ -2,6 +2,11 @@
 
 This is the repo for the project "Coherence Improvement on Pre-Training Based Cooking Recipe Generation", by group 17053487. 
 
+## How to start?
+
+We suggest you to watch our introduction video first, then 
+
+
 ## What's in this github?
 1. Main project notebook
   - The main file is an example of our experiment, modified from the experiment of BART1+GRU
@@ -12,7 +17,7 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 4. Project presentation videos
   - The main file is an example of our experiment, modified from the experiment of BART1+GRU
 5. All the experiments notebooks in './COMP0087_project/exp_nbs/'
-  - **GPT2**: 
+  - **GPT2**: *GPT2_0510_v2.ipynb*
   - **BART1**: *BART1_vanilla_0521v3.ipynb*
   - **BART2**: *BART2_vanilla_0522v2.ipynb*
   - **BART1+MLP**: *BART2_vanilla_0522v2.ipynb*
