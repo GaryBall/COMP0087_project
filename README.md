@@ -4,7 +4,7 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 
 ## How to start?
 
-We suggest you to watch our introduction video first, then 
+The report contains all the detail of our project. After reading through that, the main project file shoudl be the first point to understand our code structure. Then if the evaluation results need to be reproduced, please use the evaluation files *evaluation_final.ipynb*
 
 
 ## What's in this github?
