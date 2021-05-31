@@ -34,5 +34,3 @@ The report contains all the detail of our project. After reading through that an
 7. The evaluation files The fine-tuned model files.
   - We also create a separate evaluation file for your reference. Please refer to the *evaluation_final.ipynb* file to reproduce our experiment results if necessary
   -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
-
-Also, we uploaded everything to a github () in case something is missing. You can find the all necessary files there. 
