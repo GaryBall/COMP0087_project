@@ -37,7 +37,7 @@ get_instr(md)
   - **GPT2**: *GPT2_0510_v2.ipynb*
   - **BART1**: *BART1_vanilla_0521v3.ipynb*
   - **BART2**: *BART2_vanilla_0522v2.ipynb*
-  - **BART1+MLP**: *BART2_vanilla_0522v2.ipynb*
+  - **BART1+MLP**: *BART1_MLP_0521v1.ipynb*
   - **BART1+GRU**: *prj_main_v6.ipynb*
   - **BART2+GRU**: *BART2_GRU_0528_loss.ipynb*
 6. helper functions python file in './COMP0087_project/exp_nbs/helper_functions'
