@@ -35,6 +35,6 @@ The report contains all the detail of our project. After reading through that an
   - The training codes for different models are in *model_train.py*
   
 
-7. The evaluation files The fine-tuned model files.
+7. The evaluation files.
   - We also create a separate evaluation file for your reference. Please refer to the *evaluation_final.ipynb* file to reproduce our experiment results if necessary
   -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
