@@ -6,7 +6,7 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 
 The report contains all the detail of our project. After reading through that and watching the video, the main project file should be the first point to understand our code structure. Then if the evaluation results need to be reproduced, please use the evaluation files *evaluation_final.ipynb*
 
-The easy way to reproduce our result is by running *evaluation_final.ipynb*. After running that, you can use your own input to test our recipe generation in the evaluation notebook. An example code is here:
+The easy way to reproduce our result is by running *evaluation_final.ipynb* in the directory *./COMP0087_project/exp_nbs/evaluations/*. For that, you need to import the datafile *350k_GPT-2_Score.csv*. After running the evaluation notebooks, you can use your own input to test our recipe generation in the evaluation notebook. An example code is here:
 
 ```
 # your input
@@ -50,5 +50,5 @@ get_instr(md)
 
 7. The evaluation files.
   - We also create a separate evaluation file for your reference. This is the **easy way** to test our system. Please refer to the data directory *./COMP0087_project/exp_nbs/evaluations/* and find file *evaluation_final.ipynb* to reproduce our experiment results if necessary
-  - All the evaluations are based on the dataset *350k_GPT-2_Score.csv*
+  - All the evaluations are based on the dataset *350k_GPT-2_Score.csv*.
   -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
