@@ -25,7 +25,7 @@ get_instr(md)
   - *prj_main_v6.ipynb*
   - The main file is an example of our experiment, modified from the experiment of BART1+GRU
 2. Project report
-  - *report_group_17053487.pdf*
+  - *17053487.pdf*
   - The final report of our project
 3. Project presentation slides
   - *G17053487_slides.pptx*
