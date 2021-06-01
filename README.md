@@ -4,7 +4,7 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 
 ## How to start?
 
-The report contains all the detail of our project. After reading through that and watching the video, the main project file should be the first point to understand our code structure. Then if the evaluation results need to be reproduced, please use the evaluation files *evaluation_final.ipynb*
+The report contains all the detail of our project. After reading through that and watching the video, the main project file should be the first point to understand our code structure.
 
 The **easy way** to reproduce our result is by running *evaluation_final.ipynb* in the directory *./COMP0087_project/exp_nbs/evaluations/*. For that, you need to import the datafile *350k_GPT-2_Score.csv*. After running the evaluation notebooks, you can use your own input to test our recipe generation in the evaluation notebook. An example code is here:
 
