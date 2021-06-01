@@ -51,4 +51,4 @@ get_instr(md)
 7. The evaluation files.
   - We also create a separate evaluation file for your reference. This is the **easy way** to test our system. Please refer to the data directory *./COMP0087_project/exp_nbs/evaluations/* and find file *evaluation_final.ipynb* to reproduce our experiment results if necessary
   - All the evaluations are based on the dataset *350k_GPT-2_Score.csv*.
-  -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
+  -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *evaluation_final.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
