@@ -7,7 +7,7 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 The report contains all the detail of our project. After reading through that and watching the video, the main project file should be the first point to understand our code structure. Then if the evaluation results need to be reproduced, please use the evaluation files *evaluation_final.ipynb*
 
 
-## What's in this github?
+## What's in this repo?
 1. Main project notebook
   - *prj_main_v6.ipynb*
   - The main file is an example of our experiment, modified from the experiment of BART1+GRU
