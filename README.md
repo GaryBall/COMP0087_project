@@ -25,7 +25,7 @@ The report contains all the detail of our project. After reading through that an
   - **BART1**: *BART1_vanilla_0521v3.ipynb*
   - **BART2**: *BART2_vanilla_0522v2.ipynb*
   - **BART1+MLP**: *BART2_vanilla_0522v2.ipynb*
-  - **BART1+GRU**: This file
+  - **BART1+GRU**: *prj_main_v6.ipynb*
   - **BART2+GRU**: *BART2_GRU_0528_loss.ipynb*
 6. helper functions python file in './COMP0087_project/exp_nbs/helper_functions'
   - Help functions for data preprocessing is in *data_preprocess.py*
@@ -36,6 +36,6 @@ The report contains all the detail of our project. After reading through that an
   
 
 7. The evaluation files.
-  - We also create a separate evaluation file for your reference. Please refer to the data directory *./COMP0087_project/exp_nbs/evaluations/* and find file *evaluation_final.ipynb* to reproduce our experiment results if necessary
+  - We also create a separate evaluation file for your reference. This is the **easy way** to test our system. Please refer to the data directory *./COMP0087_project/exp_nbs/evaluations/* and find file *evaluation_final.ipynb* to reproduce our experiment results if necessary
   - All the evaluations are based on the dataset *350k_GPT-2_Score.csv*
   -  We upload all our trained model to huggingface (https://huggingface.co/jky594176). We also create a separate evaluation file for your reference. Please refer to the *.ipynb* file to evaluate our model. Using that, you can reproduce our experiment results.
