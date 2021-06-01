@@ -9,13 +9,17 @@ The report contains all the detail of our project. After reading through that an
 
 ## What's in this github?
 1. Main project notebook
+  - *prj_main_v6.ipynb*
   - The main file is an example of our experiment, modified from the experiment of BART1+GRU
 2. Project report
-  - The main file is an example of our experiment, modified from the experiment of BART1+GRU
+  - *report_group_17053487.pdf*
+  - The final report of our project
 3. Project presentation slides
-  - The main file is an example of our experiment, modified from the experiment of BART1+GRU
+  - *G17053487_slides.pptx*
+  - Our presentation slides. (The video's resolution is not high. So if you feel uncomfortable while watching, you can use this!)
 4. Project presentation videos
-  - The main file is an example of our experiment, modified from the experiment of BART1+GRU
+  - *G17053487_pre.mp4*
+  -  The video of our presentation
 5. All the experiments notebooks in './COMP0087_project/exp_nbs/'
   - **GPT2**: *GPT2_0510_v2.ipynb*
   - **BART1**: *BART1_vanilla_0521v3.ipynb*
