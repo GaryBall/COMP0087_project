@@ -6,6 +6,19 @@ This is the repo for the project "Coherence Improvement on Pre-Training Based Co
 
 The report contains all the detail of our project. After reading through that and watching the video, the main project file should be the first point to understand our code structure. Then if the evaluation results need to be reproduced, please use the evaluation files *evaluation_final.ipynb*
 
+The easy way to reproduce our result is by running *evaluation_final.ipynb*. After running that, you can use your own input to test our recipe generation in the evaluation notebook. An example codes is here:
+
+```
+# your input
+raw_text =  'potato, beef;'
+
+model = BartForConditionalGeneration.from_pretrained("jky594176/BART2_GRU")
+tokenizer = init_tokenizer("facebook/bart-base")
+model = model.to('cuda')
+md = generate_recipe(raw_text)
+get_instr(md)
+```
+
 
 ## What's in this repo?
 1. Main project notebook
